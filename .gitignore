@@ -1,0 +1,17 @@
+# Do not upload dataset or trained models
+data/
+models/
+
+# PyCharm settings
+.idea/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac junk
+.DS_Store
+
